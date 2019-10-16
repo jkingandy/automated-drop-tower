@@ -6,9 +6,7 @@ that read from several sensors, controlled the movement of an electric motor, re
 possible errors. The motor was upgraded from a DC motor and PWM H-bridge setup to an Applied Motion integrated StepSERVO, but controlling
 this motor and running the tft screen HMI proved to be too much for the Arduino platform and a PLC was used instead. I make a point to
 annotate my codes clearly throughout, so that anyone who looks at it later can understand what different parts do, because I understand 
-the frustration of troubleshooting unannotated code written by somebody else. The @@@ symbols used throughout to indicate parts of the code
-that required troubleshooting in an eye-catching way. Some of these were not fixed when the Arduino platform was abandoned for this
-project.
+the frustration of troubleshooting unannotated code written by somebody else. The @@@ symbols used throughout are meant to indicate parts of the code that require troubleshooting. Some of these were not fixed when the Arduino platform was abandoned for this project.
 
 I am very proud of this control code, and I think it serves as a good example of my willingness and ability to learn new and challenging
 skills, attention to detail, capacity for troubleshooting, and creativity when solving problems.
