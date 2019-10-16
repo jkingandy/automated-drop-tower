@@ -11,4 +11,4 @@ indicate parts of the code that require troubleshooting. Some of these were not 
 project.
 
 I am very proud of this control code, and I think it serves as a good example of my willingness and ability to learn new and challenging
-skills, attention to detail, capacity for troubleshooting, and creativity when solving problems.
+skills, attention to detail, capacity for troubleshooting, and creativity when solving technical problems.
